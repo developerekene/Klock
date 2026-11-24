@@ -1,0 +1,6 @@
+{
+  "name": "Klock",
+  "description": "A sleek light-themed clock application featuring customizable alarms, world clock, timer, stopwatch, and gentle wake-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

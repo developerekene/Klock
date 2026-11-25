@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/klock_icon_1795512260161"
+        android:drawable="@drawable/img_klock_icon"
         android:gravity="center" />
 </layer-list>
